@@ -9,10 +9,7 @@ const Footer = () => {
                 <div className="col">
                     <div className="title">About</div>
                     <div className="text">
-                        Voluptatem accusantium doloremque laudantium, totam rem
-                        aperiam, eaque ipsa quae ab illo inventore veritatis et
-                        quasi architecto beatae vitae dicta sunt explicabo eaque
-                        ipsa quae ab illo.
+                        This is a demo store representing my skill in react, nodejs, strapi, stripe integeration, payment logics, admin integerations.
                     </div>
                 </div>
                 <div className="col">
@@ -20,8 +17,7 @@ const Footer = () => {
                     <div className="c-item">
                         <FaLocationArrow />
                         <div className="text">
-                            Kayaloram Rd, Punnamada, Kottankulangara, Alappuzha,
-                            Kerala, 688006
+                            India
                         </div>
                     </div>
                     <div className="c-item">
@@ -55,8 +51,7 @@ const Footer = () => {
             <div className="bottom-bar">
                 <div className="bottom-bar-content">
                     <span className="text">
-                        JSDEVSTORE 2022 CREATED BY JS DEV. PREMIUM E-COMMERCE
-                        SOLUTIONS.
+                       Bhardwaj stores created by kshitij bhardwaj 2023 copyright held within
                     </span>
                     <img src={Payment} />
                 </div>
